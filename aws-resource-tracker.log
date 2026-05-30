@@ -1,0 +1,33 @@
+Script ran at Mon May 25 05:18:01 PM IST 2026
+S3 buckets
+2026-05-25 16:44:35 anany-new
+EC2 instances
+{
+    "Reservations": []
+}
+lambda functions
+{
+    "Functions": []
+}
+list usernames
+"anany-cli"
+Script ran at Mon May 25 05:20:01 PM IST 2026
+S3 buckets
+2026-05-25 16:44:35 anany-new
+EC2 instances
+{
+    "Reservations": []
+}
+lambda functions
+{
+    "Functions": []
+}
+list usernames
+"anany-cli"
+Script started at: Sat May 30 05:54:44 PM IST 2026
+2026-05-30 17:41:49 anany-demo
+Script started at: Sat May 30 05:55:24 PM IST 2026
+2026-05-30 17:41:49 anany-demo
+"anany-cli"
+"anany-iam"
+Script completed at: Sat May 30 05:55:35 PM IST 2026
